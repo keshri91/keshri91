@@ -1,4 +1,32 @@
-- 👋 <h1 align="center">Hi 👋, I'm Mohit Keshri</h1>
+ <h1 align="center">Hi, I'm Mohit Keshri</h1>
+<h3 align="center">MCA Graduate & Infrastructure Enthusiast</h3>
+
+<br />
+
+<p align="center">
+  I am an MCA graduate with a strong focus on computer networking and systems administration. I am consistently expanding my knowledge in network engineering and infrastructure management.
+</p>
+
+<br />
+
+- 📫 How to reach me **keshrimohit63@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/mohit-keshri" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohit Keshri" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+</p><h1 align="center">Hi 👋, I'm Mohit Keshri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Cyber security and development**
